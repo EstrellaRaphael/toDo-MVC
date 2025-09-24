@@ -45,10 +45,10 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+git clone https://github.com/EstrellaRaphael/toDo-MVC.git
 
 # 2. Navegue até a pasta do projeto
-cd todo-clean-arch
+cd toDo-MVC
 
 # 3. Instale as dependências
 npm install
