@@ -8,8 +8,8 @@
 
 Este é um aplicativo de lista de tarefas (To-Do) desenvolvido em React Native e Expo, com um foco especial na implementação de boas práticas de engenharia de software. O objetivo principal do projeto não era apenas criar uma ferramenta funcional, mas também construir uma base de código robusta, escalável, testável e de fácil manutenção, utilizando conceitos de **Arquitetura Limpa (Clean Architecture)** e **Clean Code**.
 
-> **[Screenshot da tela principal do app]**
 ![Screenshot da tela principal do app](./docs/assets/app-screenshot.png)
+
 ---
 
 ## 🏛️ Arquitetura
@@ -45,7 +45,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/EstrellaRaphael/toDo-MVC.git
+git clone [https://github.com/EstrellaRaphael/toDo-MVC.git](https://github.com/EstrellaRaphael/toDo-MVC.git)
 
 # 2. Navegue até a pasta do projeto
 cd toDo-MVC
