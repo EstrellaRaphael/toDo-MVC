@@ -45,7 +45,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/EstrellaRaphael/toDo-MVC.git](https://github.com/EstrellaRaphael/toDo-MVC.git)
+git clone https://github.com/EstrellaRaphael/toDo-MVC.git
 
 # 2. Navegue até a pasta do projeto
 cd toDo-MVC
