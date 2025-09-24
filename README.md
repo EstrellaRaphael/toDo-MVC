@@ -66,7 +66,3 @@ npx expo start
 * **TypeScript**
 * **AsyncStorage** (para persistência local)
 * **Expo Vector Icons**
-
-## licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
